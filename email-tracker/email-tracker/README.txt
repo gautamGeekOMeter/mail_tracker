@@ -11,3 +11,6 @@ How to use.
   3. Open index.php file to generate tracking code
   4. Attach tracking code to you email.
   5. Refresh index for report.
+
+
+http://tayyiboladoja.com/blog/how-to-track-emails.shtml
